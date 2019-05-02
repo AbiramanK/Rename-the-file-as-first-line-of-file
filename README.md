@@ -1,4 +1,5 @@
 # Rename the file as first line of file
+# use xampp for localhost https://www.apachefriends.org/download.html
 # Folder and files are should be in all user accessable
 
 # Linux and Mac Environment
