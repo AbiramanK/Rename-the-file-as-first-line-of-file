@@ -1,4 +1,4 @@
-# Rename_the_file_as_first_line_of_file
+# Rename the file as first line of file
 # Folder and files are should be in all user accessable
 
 # Linux and Mac Environment
